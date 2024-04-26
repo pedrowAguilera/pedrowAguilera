@@ -1,7 +1,7 @@
 <h3 align="center">Welcome to my Github profile!</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fn-fal113&label=Profile%20views&color=7748f9&style=flat-square" alt="fn-fal113" />
+  <img src="https://komarev.com/ghpvc/?username=pedrowAguilera&label=Profile%20views&color=7748f9&style=flat-square" alt="fn-fal113" />
 </p>
 
 <p align="center">
