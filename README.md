@@ -1,13 +1,7 @@
 <h3 align="center">Seja bem-vindo ao meu perfil!</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pedrowAguilera&label=Profile%20views&color=7748f9&style=flat-square" alt="fn-fal113" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/FN-FAL113/github-readme-steam-card" target="_blank">
-     <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198085145110&animated_avatar=true"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=pedrowAguilera&label=Profile%20views&color=2db0cf&style=flat-circle" alt="pedrowAguilera" />
 </p>
 
 - Atualmente estou terminando o 3° Ano do EM e finalizando o curso técnico de **ADS no SENAI**
