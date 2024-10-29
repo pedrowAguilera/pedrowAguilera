@@ -7,7 +7,6 @@
 
 - Atualmente estou terminando o 3° Ano do EM e finalizando o curso técnico de **ADS no SENAI**
 
-- Sinta-se à vontade para navegar em meus repositorios ("copia só não faz igual"😛)
 
 <h3 align="left">Minhas linguagens:</h3>
 <div align="center">
